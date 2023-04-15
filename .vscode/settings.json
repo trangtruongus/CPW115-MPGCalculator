@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 5501,
+    "git.enabled": true,
+    "git-autoconfig.configList": [
+        {
+             "user.email": "trang.truong.us@icloud.com",
+             "user.name": "trangtruongus"
+         }
+   ]
+}
