@@ -60,8 +60,8 @@ function displayResults(milesPerGallon:number):void{
 
 /**
  * Calculates miles per gallon
- * @param {string|number} milesDriven The number of miles driven
- * @param {string|number} gallonsUsed The number of gallons used
+ * @param {number} milesDriven The number of miles driven
+ * @param {number} gallonsUsed The number of gallons used
  */
 function calculateMPG(milesDriven:number, gallonsUsed:number):number {
     //calculate MPG
