@@ -22,6 +22,7 @@ label {
 	float: left;
     width: 11em;
     text-align: right;
+    padding-top: 10px;
 }
 
 input {
@@ -38,16 +39,14 @@ span {
 
 #miles, #gallons, #mpg {
     width: 200px;
+    height: 30px;
 }
 
 #calculate, #clear {
     width: 208px ;
+    height: 30px;
 }
 
 #calculate {
     background-color: cyan;
-}
-
-.display-car {
-    display: block;
 }
